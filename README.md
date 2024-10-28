@@ -1,4 +1,4 @@
-## Dual-Branch CNN Incorporating Multiscale SVD Profile for PolSAR Image Classification
+## [Dual-Branch CNN Incorporating Multiscale SVD Profile for PolSAR Image Classification](https://ieeexplore.ieee.org/document/10685476)
 
 [Nabajyoti Das](https://scholar.google.com/citations?user=SbFjohMAAAAJ&hl=en), [Amos Bortiew](https://www.researchgate.net/profile/Amos-Bortiew), [Swarnajyoti Patra](https://agnigarh.tezu.ernet.in/~swpatra/index.html), and [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum#:~:text=Bruzzone%20is%20the%20founder%20and,machine%20learning%20and%20pattern%20recognition.)
 
