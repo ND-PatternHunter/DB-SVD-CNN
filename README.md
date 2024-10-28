@@ -21,3 +21,21 @@ The dual-branch CNN architecture consists of two parallel branches:
 ### Additional Notes
 
 * Refer to the code comments for detailed function descriptions.
+
+
+### Citation
+
+**Please kindly cite the paper if this code is useful and helpful for your research.**
+
+```
+@ARTICLE{10685476,
+  author={Das, Nabajyoti and Bortiew, Amos and Patra, Swarnajyoti and Bruzzone, Lorenzo},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Dual-Branch CNN Incorporating Multiscale SVD Profile for PolSAR Image Classification}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-12},
+  keywords={Feature extraction;Scattering;Convolutional neural networks;Data mining;Image classification;Matrix decomposition;Data models;Convolutional neural network (CNN);polarimetric synthetic aperture radar (PolSAR) image;remote sensing;singular value decomposition (SVD);superpixels},
+  doi={10.1109/TGRS.2024.3465849}}
+```
